@@ -19,5 +19,8 @@ After that, run `npm run dev` to see the website launch on either port 3000 or 5
 
 View the deployment on the linked website in Vercel or your localhost should look like this: \ 
 ![image](https://github.com/user-attachments/assets/eac8e41a-7c78-4eee-a56c-f976f582a986)
+![image](https://github.com/user-attachments/assets/4f3a5862-4f25-4e00-9abd-34956adab9ca)
+![image](https://github.com/user-attachments/assets/5b3ee57c-57e1-486b-9b51-4e541dd35520)
+
 And of course it dynamically updates based on the city provided
 
